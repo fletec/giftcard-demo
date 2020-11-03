@@ -23,3 +23,5 @@ dist/
 nbdist/
 .nb-gradle/
 *.jar
+database.lock.db
+database.mv.db
