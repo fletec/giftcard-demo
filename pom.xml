@@ -30,7 +30,8 @@
 
         <axon.version>4.4.3</axon.version>
 
-        <vaadin.version>8.2.0</vaadin.version>
+        <vaadin.version>14.4.0</vaadin.version>
+        <vaadin-spring.version>11.0.2</vaadin-spring.version>
         <lombok.version>1.18.16</lombok.version>
     </properties>
 
